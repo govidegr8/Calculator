@@ -1,0 +1,40 @@
+#calculator {
+    height: 650px;
+    width: 500px;
+    background-color: gray;
+    margin-left: 420px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+.clear {
+    margin-left: 99px;
+    margin-top: 13px;
+    height: 25px;
+    width: 50px;
+  }
+
+
+#input {
+    width: 339px;
+    margin-top: 94px;
+    height: 50px;
+    margin-left: 83px;
+    pointer-events: none;
+  }
+
+.row {
+    width: 100%;
+    margin-left: 99px;
+    margin-top: 25px;
+  }
+.button {
+    width: 50px;
+    height: 50px;
+    margin-left: 260px;
+  }
+  
+.buttons {
+    width: 50px;
+    height: 50px;
+    margin: 14px;
+  }
